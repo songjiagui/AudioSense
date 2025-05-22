@@ -1,0 +1,7 @@
+pyaudio
+numpy
+modelscope
+funasr
+soundfile
+flask
+flask-cors
